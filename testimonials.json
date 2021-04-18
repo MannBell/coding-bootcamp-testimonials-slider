@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "Tanya Sinclair"
+    , "picture": "./src/images/image-tanya.jpg"
+    , "job" : "UX Engineer"
+    , "quote" : "“ I’ve been interested in coding for a while but never taken the jump, until now. \nI couldn’t recommend this course enough. I’m now in the job of my dreams and so \nexcited about the future. ”"
+  },
+  {
+    "name" : "John Tarkpor"
+    , "picture": "./src/images/image-john.jpg"
+    , "job" : "Junior Front-end Developer"
+    , "quote" : "“ If you want to lay the best foundation possible I’d recommend taking this course. \nThe depth the instructors go into is incredible. I now feel so confident about \nstarting up as a professional developer. ”"
+  }
+]
